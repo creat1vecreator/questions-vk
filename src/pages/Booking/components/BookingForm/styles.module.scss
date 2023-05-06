@@ -1,0 +1,13 @@
+.BookingForm {
+
+  &__handleButtons {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 10px;
+  }
+
+  &__calendar {
+    margin-bottom: 317px;
+  }
+}

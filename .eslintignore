@@ -1,0 +1,6 @@
+/node_modules/**
+.eslintrc.js
+prettier.config.js
+tsconfig.json
+craco.config.js
+types.d.ts
